@@ -1,0 +1,6 @@
+framework module Pods_flixim {
+  umbrella header "Pods-flixim-umbrella.h"
+
+  export *
+  module * { export * }
+}
